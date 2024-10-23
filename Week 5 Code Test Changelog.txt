@@ -1,0 +1,23 @@
+(Week 5 Code Test)
+
+Change Log - Harry Findlay, 2102552 
+
+---------------------------------------
+
+link to fork: https://github.com/Abertay-University-SDI/Breakout/pull/6
+
+---------------------------------------
+
+#pre production: Familiarise myself with existing structure and content of project. - 10 minutes.
+
+#bug fix: circular dependency, found and fixed using a forward declaration. - 10 minutes.
+
+#added feature: Paddle mouse control added and polished. - 50 minutes.
+#added feature: Timer added functionality added - 45 minutes.
+#added feature: UI updated to support timer, polished to use two decimal places. - 10 minutes.
+#added feature: Gameplay loop updated to handle timer. - 5 minutes.
+#added feature: Brick health functionality added and polished.  - 50 minutes.
+
+---------------------------------------
+
+#total time spend: 3 Hours
